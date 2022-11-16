@@ -1,3 +1,6 @@
+
+Sunday School Attendance Tracker (SAT)
+
 # How To Use This Boilerplate Code
 
 You can use this code to quickly and easily use Firebase v9.0.0
